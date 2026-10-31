@@ -208,13 +208,19 @@ My long-term goal is to contribute to meaningful research and publish work in cy
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=faizunnur&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
+<img height="170"
+src="https://github-stats-extended.vercel.app/api?username=faizunnur&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+alt="GitHub Statistics" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizunnur&layout=compact&hide_border=true&theme=tokyonight" />
+<img height="170"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=faizunnur&layout=compact&theme=tokyonight&hide_border=true"
+alt="Most Used Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=faizunnur&theme=tokyonight&hide_border=true" />
+<img
+src="https://streak-stats.demolab.com?user=faizunnur&theme=tokyonight&hide_border=true"
+alt="GitHub Contribution Streak" />
 
 </div>
 
